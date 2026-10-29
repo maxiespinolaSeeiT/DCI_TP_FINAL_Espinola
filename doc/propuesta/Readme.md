@@ -57,6 +57,6 @@ Texto oficial: [CERN-OHL-S-2.0](https://ohwr.org/cern_ohl_s_v2.txt)
 
 ## 7. Referencias
 
-- [TP4056 – Hoja de datos del circuito integrado](https://www.alldatasheet.com/datasheet-pdf/pdf/1132087/ETC2/TP4056.html)
+- [TP4056 – Hoja de datos del circuito integrado](https://github.com/maxiespinolaSeeiT/DCI_TP_FINAL_Espinola/blob/main/info/TP4056.PDF)
 - [Open Source Hardware Association (OSHWA)](https://www.oshwa.org/)
 - [CERN Open Hardware Licence Version 2](https://ohwr.org/cern_ohl_s_v2.txt)
