@@ -3107,7 +3107,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Yageo" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "RC0805FR-071KL" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Resistor 1kΩ, 0805, 1%, 0.125W" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:R")
 		(at 255.27 63.5 90)
@@ -3175,7 +3179,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Yageo" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "RC0805FR-07100RL" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Resistor 100Ω, 0805, 1%, 0.125W" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 21.59 168.91 0)
@@ -3239,7 +3247,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Generic" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "N/A" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Mounting hole; no electrical part number" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_PowerOnly_6P")
 		(at 35.56 64.77 0)
@@ -3322,7 +3334,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "GCT" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "USB4125-GF-A-0190" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "USB-C power-only receptacle, 6-pin, horizontal SMT" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:C")
 		(at 161.29 77.47 0)
@@ -3392,7 +3408,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Panasonic" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "EEE-FK1A100P" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Electrolytic capacitor 10uF, 10V, SMD; verify footprint/dimensions" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:GND")
 		(at 35.56 87.63 0)
@@ -3654,7 +3674,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Generic" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "N/A" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "PCB fiducial; no electrical part number" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:C")
 		(at 64.77 100.33 0)
@@ -3723,7 +3747,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Murata" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "GRM21BR71H104KA01L" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Ceramic capacitor 100nF, 0805, X7R, 50V" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:GND")
 		(at 64.77 107.95 0)
@@ -3924,7 +3952,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Phoenix Contact" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "1725656" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "2-position terminal block, 5.08mm pitch; confirm exact MKDS variant against footprint" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:LED")
 		(at 100.33 52.07 90)
@@ -4002,7 +4034,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Lite-On" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "LTST-C170KRKT" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Red LED, 0805; verify color/footprint orientation" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:+5V")
 		(at 58.42 45.72 0)
@@ -4402,7 +4438,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Yageo" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "RC0805FR-071KL" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Resistor 1kΩ, 0805, 1%, 0.125W" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:GND")
 		(at 161.29 95.25 0)
@@ -4611,7 +4651,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Lite-On" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "LTST-C170TBKT" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Blue LED, 0805; verify color/footprint orientation" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 67.31 45.72 0)
@@ -4812,7 +4856,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Phoenix Contact" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "1725656" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "2-position terminal block, 5.08mm pitch; confirm exact MKDS variant against footprint" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:R")
 		(at 147.32 85.09 0)
@@ -4882,7 +4930,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Yageo" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "RC0805FR-071K2L" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Resistor 1.2kΩ, 0805, 1%, 0.125W" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "FS8205:FS8205A")
 		(at 227.33 92.71 0)
@@ -4967,7 +5019,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Fortune Semiconductor" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "FS8205A" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Dual N-channel MOSFET for battery protection; selected variant/package requires footprint verification" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:C")
 		(at 245.11 71.12 0)
@@ -5037,7 +5093,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Murata" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "GRM21BR71H104KA01L" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Ceramic capacitor 100nF, 0805, X7R, 50V" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Device:R")
 		(at 85.09 67.31 180)
@@ -5107,7 +5167,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Yageo" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "RC0805FR-071KL" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Resistor 1kΩ, 0805, 1%, 0.125W" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "DW01A:DW01A")
 		(at 226.06 66.04 0)
@@ -5187,7 +5251,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Fortune Semiconductor" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "DW01A" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "1-cell lithium battery protection controller, SOT-23-6" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:+5V")
 		(at 85.09 45.72 0)
@@ -5320,7 +5388,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Phoenix Contact" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "1725656" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "2-position terminal block, 5.08mm pitch; confirm exact MKDS variant against footprint" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "Battery_Management:TP4056-42-ESOP8")
 		(at 129.54 73.66 0)
@@ -5411,7 +5483,11 @@
 				)
 			)
 		)
-	)
+	
+		(property "Manufacturer" "Top Power ASIC" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "MPN" "TP4056-42-ESOP8" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Description" "Single-cell Li-ion charger IC, ESOP-8 with exposed pad" (at 0 0 0) (effects (font (size 1 1)) (hide yes)))
+		(property "Supplier" "DigiKey / Mouser / LCSC (distributor varies)" (at 0 0 0) (effects (font (size 1 1)) (hide yes))))
 	(symbol
 		(lib_id "power:GND")
 		(at 147.32 93.98 0)
